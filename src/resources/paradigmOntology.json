@@ -1,0 +1,20 @@
+{
+    "gender": ["masculine", "feminine", "common"],
+    "person": ["first", "second", "third"],
+    "number": ["singular", "plural"],
+    "suffixType": ["contaction", "suffix"],
+    "suffixNumber": ["singular", "plural"],
+    "suffixPerson": ["first", "second", "third"],
+    "suffixGender": ["masculine", "feminine", "common"],
+    "state": ["absolute", "construct", "emphatic"],
+    "tense": ["perfect", "imperfect", "imperative", "infinitive", "active participle", "passive participle"],
+    "kaylo": [
+        "pʿal", "ethpʿal", "paʿel",
+        "ethpaʿel", "aphʿel", "ettaphal",
+        "shaphel", "eshtaphal", "saphel", 
+        "estaphal", "pauel", "ethpaual", "paiel",
+        "ethpaial", "palpal", "ethpalpal", "pamel", "ethpamel",
+        "parel", "ethparal", "pali", "ethpali", "pahli", "ethpahli",
+        "taphel", "ethaphal"
+    ]
+}
