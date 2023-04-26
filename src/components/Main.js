@@ -6,6 +6,7 @@ import TextReader from './TextReader';
 import Header from './Header';
 import Vocabulary from './Vocabulary';
 import About from './About';
+import VerbParadigm from './VerbParadigm';
 
 
 export default function Main() {
@@ -20,6 +21,7 @@ export default function Main() {
           <Route path="/reader/:file" element={<TextReader/>}/>
           <Route path="/toc" element={<TableOfContents/>}/>
           <Route path="/vocabulary" element={<Vocabulary/>}/>
+          <Route path="/verbs" element={<VerbParadigm/>}/>
           <Route path="/about" element={<About/>}/>
           </Routes>
       </BrowserRouter>

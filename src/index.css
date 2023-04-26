@@ -1,3 +1,8 @@
+:root {
+  --syriac-font-family-normal: "estrangelo-normal";
+  --syriac-font-family-bold: "estrangelo-bold";
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -10,4 +15,34 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+@font-face {
+  font-family: 'estrangelo-normal';
+  src: local('estrangelo-normal'), url(./fonts/estrangelo-normal.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: 'estrangelo-bold';
+  src: local('estrangelo-bold'), url(./fonts/estrangelo-bold.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: 'nestorian-normal';
+  src: local('nestorian-normal'), url(./fonts/nestorian-normal.otf) format("opentype");
+}
+
+@font-face {
+  font-family: 'nestorian-bold';
+  src: local('nestorian-bold'), url(./fonts/nestorian-normal.otf) format("opentype");
+}
+
+@font-face {
+  font-family: 'serto-normal';
+  src: local('serto-normal'), url(./fonts/serto-normal.otf) format("opentype");
+}
+
+@font-face {
+  font-family: 'serto-bold';
+  src: local('serto-bold'), url(./fonts/serto-bold.otf) format("opentype");
 }

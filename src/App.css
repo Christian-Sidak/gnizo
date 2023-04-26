@@ -62,15 +62,18 @@
 
 .syriac-heading {
   text-align: right;
+  font-family: var(--syriac-font-family-normal);
 }
 
 syriac-text {
   font-size: x-large;
+  font-family: var(--syriac-font-family-normal);
 }
 
 syriac-text:hover {
   background-color: aliceblue;
   font-weight: bold;
+  font-family: var(--syriac-font-family-bold);
 }
 
 /* Widget Component Classes */
