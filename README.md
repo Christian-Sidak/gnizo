@@ -1,6 +1,6 @@
 # An Online Syriac Reader and Translation Tool
 
-Gnizo ("Treasure Trove" in Syriac) is a resource to promote and maintain literacy in Classical Syriac. You can read from a variety of ancient texts, annotate and drill unknown vocabulary, and drill grammatical paradigms. A live deployment of this application lives [here](http://christian-sidak.github.io/gnizo).
+Gnizo is a resource to promote and maintain literacy in Classical Syriac. You can read from a variety of ancient texts, annotate and drill unknown vocabulary, and drill grammatical paradigms. A live deployment of this application lives [here](http://gnizo.s3-website-us-east-1.amazonaws.com).
 
 The idea for Gnizo came to me over the years as I would go back to read Syriac texts, but, alas, would forget many words. I wanted a system to read a text, hover over any unknown words for a definition, then *go back* and drill all the words and conjugations I didn't know.
 
