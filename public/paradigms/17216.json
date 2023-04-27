@@ -1,0 +1,841 @@
+{
+    "root": "ܢܟܐ",
+    "id": 17216,
+    "verb_class": "Pe Nun",
+    "conjugations": {
+        "1829": {
+            "value": "ܢܟܰܐ",
+            "alternatives": []
+        },
+        "1884": {
+            "value": "ܐܶܬܢܟܶܐ",
+            "alternatives": []
+        },
+        "1919": {
+            "value": "ܢܰܟܶܐ",
+            "alternatives": []
+        },
+        "1964": {
+            "value": "ܐܶܬܢܰܟܰܐ",
+            "alternatives": []
+        },
+        "1999": {
+            "value": "ܐܰܟܶܐ",
+            "alternatives": []
+        },
+        "2042": {
+            "value": "ܐܶܬܬܰܟܰܐ",
+            "alternatives": []
+        },
+        "1828": {
+            "value": "ܢܶܟܐܰܬ",
+            "alternatives": []
+        },
+        "1883": {
+            "value": "ܐܶܬܢܰܟܐܰܬ",
+            "alternatives": []
+        },
+        "1918": {
+            "value": "ܢܰܟܐܰܬ",
+            "alternatives": []
+        },
+        "1963": {
+            "value": "ܐܶܬܢܰܟܐܰܬ",
+            "alternatives": []
+        },
+        "1998": {
+            "value": "ܐܰܟܐܰܬ",
+            "alternatives": []
+        },
+        "2041": {
+            "value": "ܐܶܬܬܰܟܐܰܬ",
+            "alternatives": []
+        },
+        "1827": {
+            "value": "ܢܟܰܐܬ",
+            "alternatives": []
+        },
+        "1882": {
+            "value": "ܐܶܬܢܟܶܐܬ",
+            "alternatives": []
+        },
+        "1917": {
+            "value": "ܢܰܟܶܐܬ",
+            "alternatives": []
+        },
+        "1962": {
+            "value": "ܐܶܬܢܰܟܰܐܬ",
+            "alternatives": []
+        },
+        "1997": {
+            "value": "ܐܰܟܶܐܬ",
+            "alternatives": []
+        },
+        "2040": {
+            "value": "ܐܶܬܬܰܟܰܐܬ",
+            "alternatives": []
+        },
+        "1826": {
+            "value": "ܢܟܰܐܬܝ",
+            "alternatives": []
+        },
+        "1881": {
+            "value": "ܐܶܬܢܟܶܐܬܝ",
+            "alternatives": []
+        },
+        "1916": {
+            "value": "ܢܰܟܶܐܬܝ",
+            "alternatives": []
+        },
+        "1961": {
+            "value": "ܐܶܬܢܰܟܰܐܬܝ",
+            "alternatives": []
+        },
+        "1996": {
+            "value": "ܐܰܟܶܐܬܝ",
+            "alternatives": []
+        },
+        "2039": {
+            "value": "ܐܶܬܰܟܰܐܬܝ",
+            "alternatives": []
+        },
+        "1825": {
+            "value": "ܢܶܟܐܶܬ",
+            "alternatives": []
+        },
+        "1880": {
+            "value": "ܐܶܬܢܰܟܐܶܬ",
+            "alternatives": []
+        },
+        "1915": {
+            "value": "ܢܰܟܐܶܬ",
+            "alternatives": []
+        },
+        "1960": {
+            "value": "ܐܶܬܢܰܟܐܶܬ",
+            "alternatives": []
+        },
+        "1995": {
+            "value": "ܐܰܟܐܶܬ",
+            "alternatives": []
+        },
+        "2038": {
+            "value": "ܐܶܬܰܟܐܶܬ",
+            "alternatives": []
+        },
+        "1823": {
+            "value": "ܢܟܰܐܘ",
+            "alternatives": [
+                "ܢܟܰܐܽܘܢ"
+            ]
+        },
+        "1878": {
+            "value": "ܐܶܬܢܟܶܐܘ",
+            "alternatives": [
+                "ܐܶܬܢܟܶܐܽܘܢ"
+            ]
+        },
+        "1913": {
+            "value": "ܢܰܟܶܐܘ",
+            "alternatives": [
+                "ܢܰܟܶܐܽܘܢ"
+            ]
+        },
+        "1958": {
+            "value": "ܐܶܬܢܰܟܰܐܘ",
+            "alternatives": [
+                "ܐܶܬܢܰܟܰܐܽܘܢ"
+            ]
+        },
+        "1993": {
+            "value": "ܐܰܟܶܐܘ",
+            "alternatives": [
+                "ܐܰܟܶܐܽܘܢ"
+            ]
+        },
+        "2036": {
+            "value": "ܐܶܬܬܰܟܰܐܘ",
+            "alternatives": [
+                "ܐܶܬܬܰܟܰܐܽܘܢ"
+            ]
+        },
+        "1821": {
+            "value": "ܢܟܰܐ̈ܝ",
+            "alternatives": [
+                "ܢܟܰܐ̈ܶܝܢ"
+            ]
+        },
+        "1876": {
+            "value": "ܐܶܬܢܟܶܐ̈ܝ",
+            "alternatives": [
+                "ܐܶܬܢܟܶܐ̈ܶܝܢ"
+            ]
+        },
+        "1911": {
+            "value": "ܢܰܟܶܐ̈ܝ",
+            "alternatives": [
+                "ܢܰܟܶܐ̈ܶܝܢ"
+            ]
+        },
+        "1956": {
+            "value": "ܐܶܬܢܰܟܰܐ̈ܝ",
+            "alternatives": [
+                "ܐܶܬܢܰܟܰܐ̈ܶܝܢ"
+            ]
+        },
+        "1991": {
+            "value": "ܐܰܟܶܐ̈ܝ",
+            "alternatives": [
+                "ܐܰܟܶܐ̈ܶܝܢ"
+            ]
+        },
+        "2034": {
+            "value": "ܐܶܬܬܰܟܰܐ̈ܝ",
+            "alternatives": [
+                "ܐܶܬܬܰܟܰܐ̈ܶܝܢ"
+            ]
+        },
+        "1820": {
+            "value": "ܢܟܰܐܬܽܘܢ",
+            "alternatives": []
+        },
+        "1875": {
+            "value": "ܐܶܬܢܟܶܐܬܽܘܢ",
+            "alternatives": []
+        },
+        "1910": {
+            "value": "ܢܰܟܶܐܬܽܘܢ",
+            "alternatives": []
+        },
+        "1955": {
+            "value": "ܐܶܬܢܰܟܰܐܬܽܘܢ",
+            "alternatives": []
+        },
+        "1990": {
+            "value": "ܐܰܟܶܐܬܽܘܢ",
+            "alternatives": []
+        },
+        "2033": {
+            "value": "ܐܶܬܬܰܟܰܐܬܽܘܢ",
+            "alternatives": []
+        },
+        "1819": {
+            "value": "ܢܟܰܐܬ̈ܶܝܢ",
+            "alternatives": []
+        },
+        "1874": {
+            "value": "ܐܶܬܢܟܶܐ̈ܬܶܝܢ",
+            "alternatives": []
+        },
+        "1909": {
+            "value": "ܢܰܟܶܐܬ̈ܶܝܢ",
+            "alternatives": []
+        },
+        "1954": {
+            "value": "ܐܶܬܢܰܟܰܐ̈ܬܶܝܢ",
+            "alternatives": []
+        },
+        "1989": {
+            "value": "ܐܰܟܶܐܬ̈ܶܝܢ",
+            "alternatives": []
+        },
+        "2032": {
+            "value": "ܐܶܬܬܰܟܰܐ̈ܬܶܝܢ",
+            "alternatives": []
+        },
+        "1817": {
+            "value": "ܢܟܰܐܢ",
+            "alternatives": [
+                "ܢܟܰܐܢܰܢ"
+            ]
+        },
+        "1872": {
+            "value": "ܐܶܬܢܟܶܐܢ",
+            "alternatives": [
+                "ܐܶܬܢܟܶܐܢܰܢ"
+            ]
+        },
+        "1907": {
+            "value": "ܢܰܟܶܐܢ",
+            "alternatives": [
+                "ܢܰܟܶܐܢܰܢ"
+            ]
+        },
+        "1952": {
+            "value": "ܐܶܬܢܰܟܰܐܢ",
+            "alternatives": [
+                "ܐܶܬܢܰܟܰܐܢܰܢ"
+            ]
+        },
+        "1987": {
+            "value": "ܐܰܟܶܐܢ",
+            "alternatives": [
+                "ܐܰܟܶܐܢܰܢ"
+            ]
+        },
+        "2030": {
+            "value": "ܐܶܬܬܰܟܰܐܢ",
+            "alternatives": [
+                "ܐܶܬܬܰܟܰܐܢܰܢ"
+            ]
+        },
+        "1797": {
+            "value": "ܢܶܟܽܘܐ",
+            "alternatives": []
+        },
+        "1863": {
+            "value": "ܢܶܬܢܟܶܐ",
+            "alternatives": []
+        },
+        "1899": {
+            "value": "ܢܢܰܟܶܐ",
+            "alternatives": []
+        },
+        "1938": {
+            "value": "ܢܶܬܢܰܟܰܐ",
+            "alternatives": []
+        },
+        "1979": {
+            "value": "ܢܰܟܶܐ",
+            "alternatives": []
+        },
+        "2022": {
+            "value": "ܢܶܬܬܰܟܰܐ",
+            "alternatives": []
+        },
+        "1795": {
+            "value": "ܬܶܟܽܘܐ",
+            "alternatives": [
+                "ܬܶܟܽܘܐܝ"
+            ]
+        },
+        "1861": {
+            "value": "ܬܶܬܢܟܶܐ",
+            "alternatives": [
+                "ܬܶܬܢܟܶܐܝ"
+            ]
+        },
+        "1897": {
+            "value": "ܬܢܰܟܶܐ",
+            "alternatives": [
+                "ܬܢܰܟܶܐܝ"
+            ]
+        },
+        "1936": {
+            "value": "ܬܶܬܢܰܟܰܐ",
+            "alternatives": [
+                "ܬܶܬܢܰܟܰܐܝ"
+            ]
+        },
+        "1977": {
+            "value": "ܬܰܟܶܐ",
+            "alternatives": [
+                "ܬܰܟܶܐܝ"
+            ]
+        },
+        "2020": {
+            "value": "ܬܶܬܬܰܟܰܐܝ",
+            "alternatives": [
+                "ܬܶܬܰܟܰܐܝ"
+            ]
+        },
+        "1794": {
+            "value": "ܬܶܟܽܘܐ",
+            "alternatives": []
+        },
+        "1860": {
+            "value": "ܬܶܬܢܟܶܐ",
+            "alternatives": []
+        },
+        "1896": {
+            "value": "ܬܢܰܟܶܐ",
+            "alternatives": []
+        },
+        "1935": {
+            "value": "ܬܶܬܢܰܟܰܐ",
+            "alternatives": []
+        },
+        "1976": {
+            "value": "ܬܰܟܶܐ",
+            "alternatives": []
+        },
+        "2018": {
+            "value": "ܬܶܬܬܰܟܰܐ",
+            "alternatives": [
+                "ܬܶܬܰܟܰܐ"
+            ]
+        },
+        "1793": {
+            "value": "ܬܶܟܐܺܝܢ",
+            "alternatives": []
+        },
+        "1859": {
+            "value": "ܬܶܬܢܰܟܐܺܝܢ",
+            "alternatives": []
+        },
+        "1895": {
+            "value": "ܬܢܰܟܐܺܝܢ",
+            "alternatives": []
+        },
+        "1934": {
+            "value": "ܬܶܬܢܰܟܐܺܝܢ",
+            "alternatives": []
+        },
+        "1975": {
+            "value": "ܬܰܟܐܺܝܢ",
+            "alternatives": []
+        },
+        "2016": {
+            "value": "ܬܶܬܬܰܟܐܺܝܢ",
+            "alternatives": [
+                "ܬܶܬܰܟܐܺܝܢ"
+            ]
+        },
+        "1792": {
+            "value": "ܐܶܟܽܘܐ",
+            "alternatives": []
+        },
+        "1858": {
+            "value": "ܐܶܬܢܟܶܐ",
+            "alternatives": []
+        },
+        "1894": {
+            "value": "ܐܶܢܰܟܶܐ",
+            "alternatives": []
+        },
+        "1933": {
+            "value": "ܐܶܬܢܰܟܰܐ",
+            "alternatives": []
+        },
+        "1974": {
+            "value": "ܐܰܟܶܐ",
+            "alternatives": []
+        },
+        "2015": {
+            "value": "ܐܶܬܬܰܟܰܐ",
+            "alternatives": []
+        },
+        "1791": {
+            "value": "ܢܶܟܐܽܘܢ",
+            "alternatives": []
+        },
+        "1857": {
+            "value": "ܢܶܬܢܰܟܐܽܘܢ",
+            "alternatives": []
+        },
+        "1893": {
+            "value": "ܢܢܰܟܐܽܘܢ",
+            "alternatives": []
+        },
+        "1932": {
+            "value": "ܢܶܬܢܰܟܐܽܘܢ",
+            "alternatives": []
+        },
+        "1973": {
+            "value": "ܢܰܟܐܽܘܢ",
+            "alternatives": []
+        },
+        "2014": {
+            "value": "ܢܶܬܬܰܟܐܽܘܢ",
+            "alternatives": []
+        },
+        "1790": {
+            "value": "ܢܶ̈ܟܐܳܢ",
+            "alternatives": []
+        },
+        "1856": {
+            "value": "ܢܶܬܢܰܟܐ̈ܳܢ",
+            "alternatives": []
+        },
+        "1892": {
+            "value": "ܢܢܰܟܐ̈ܳܢ",
+            "alternatives": []
+        },
+        "1931": {
+            "value": "ܢܶܬܢܰܟܐ̈ܳܢ",
+            "alternatives": []
+        },
+        "1972": {
+            "value": "ܢܰܟܐ̈ܳܢ",
+            "alternatives": []
+        },
+        "2013": {
+            "value": "ܢܶܬܬܰܟܐ̈ܳܢ",
+            "alternatives": []
+        },
+        "1789": {
+            "value": "ܬܶܟܐܽܘܢ",
+            "alternatives": []
+        },
+        "1855": {
+            "value": "ܬܶܬܢܰܟܐܽܘܢ",
+            "alternatives": []
+        },
+        "1891": {
+            "value": "ܬܢܰܟܐܽܘܢ",
+            "alternatives": []
+        },
+        "1930": {
+            "value": "ܬܶܬܢܰܟܐܽܘܢ",
+            "alternatives": []
+        },
+        "1971": {
+            "value": "ܬܰܟܐܽܘܢ",
+            "alternatives": []
+        },
+        "2011": {
+            "value": "ܬܶܬܬܰܟܐܽܘܢ",
+            "alternatives": [
+                "ܬܶܬܰܟܐܽܘܢ"
+            ]
+        },
+        "1788": {
+            "value": "ܬܶ̈ܟܐܳܢ",
+            "alternatives": []
+        },
+        "1854": {
+            "value": "ܬܶܬܢܰܟܐ̈ܳܢ",
+            "alternatives": []
+        },
+        "1890": {
+            "value": "ܬܢܰܟܐ̈ܳܢ",
+            "alternatives": []
+        },
+        "1929": {
+            "value": "ܬܶܬܢܰܟܐ̈ܳܢ",
+            "alternatives": []
+        },
+        "1970": {
+            "value": "ܬܰܟܐ̈ܳܢ",
+            "alternatives": []
+        },
+        "2009": {
+            "value": "ܬܶܬܬܰܟܐ̈ܳܢ",
+            "alternatives": [
+                "ܬܶܬܰܟܐ̈ܳܢ"
+            ]
+        },
+        "1787": {
+            "value": "ܢܶܟܽܘܐ",
+            "alternatives": []
+        },
+        "1853": {
+            "value": "ܢܶܬܢܟܶܐ",
+            "alternatives": []
+        },
+        "1889": {
+            "value": "ܢܢܰܟܶܐ",
+            "alternatives": []
+        },
+        "1928": {
+            "value": "ܢܶܬܢܰܟܰܐ",
+            "alternatives": []
+        },
+        "1969": {
+            "value": "ܢܰܟܶܐ",
+            "alternatives": []
+        },
+        "2008": {
+            "value": "ܢܶܬܬܰܟܰܐ",
+            "alternatives": []
+        },
+        "1816": {
+            "value": "ܟܽܘܐ",
+            "alternatives": []
+        },
+        "1870": {
+            "value": "ܐܶܬܢܰܟܐ",
+            "alternatives": [
+                "ܐܶܬܢܰܟܐ"
+            ]
+        },
+        "1906": {
+            "value": "ܢܰܟܶܐ",
+            "alternatives": []
+        },
+        "1950": {
+            "value": "ܐܶܬܢܰܟܰܐ",
+            "alternatives": [
+                "ܐܶܬܢܰܟܐ"
+            ]
+        },
+        "1986": {
+            "value": "ܐܰܟܶܐ",
+            "alternatives": []
+        },
+        "2029": {
+            "value": "ܐܶܬܬܰܟܰܐ",
+            "alternatives": []
+        },
+        "1815": {
+            "value": "ܟܽܘܐܝ",
+            "alternatives": []
+        },
+        "1869": {
+            "value": "ܐܶܬܢܰܟܐܝ",
+            "alternatives": []
+        },
+        "1905": {
+            "value": "ܢܰܟܶܐܝ",
+            "alternatives": []
+        },
+        "1948": {
+            "value": "ܐܶܬܢܰܟܰܐܝ",
+            "alternatives": [
+                "ܐܶܬܢܰܟܐܝ"
+            ]
+        },
+        "1985": {
+            "value": "ܐܰܟܶܐܝ",
+            "alternatives": []
+        },
+        "2028": {
+            "value": "ܐܶܬܬܰܟܰܐܝ",
+            "alternatives": []
+        },
+        "1813": {
+            "value": "ܟܽܘܐܘ",
+            "alternatives": [
+                "ܟܽܘܐܽܘܢ"
+            ]
+        },
+        "1867": {
+            "value": "ܐܶܬܢܰܟܐܘ",
+            "alternatives": [
+                "ܐܶܬܢܰܟܐܽܘܢ"
+            ]
+        },
+        "1903": {
+            "value": "ܢܰܟܶܐܘ",
+            "alternatives": [
+                "ܢܰܟܶܐܽܘܢ"
+            ]
+        },
+        "1944": {
+            "value": "ܐܶܬܢܰܟܰܐܘ",
+            "alternatives": [
+                "ܐܶܬܢܰܟܐܽܘܢ",
+                "ܐܶܬܢܰܟܰܐܽܘܢ",
+                "ܐܶܬܢܰܟܐܘ"
+            ]
+        },
+        "1983": {
+            "value": "ܐܰܟܶܐܘ",
+            "alternatives": [
+                "ܐܰܟܶܐܽܘܢ"
+            ]
+        },
+        "2026": {
+            "value": "ܐܶܬܬܰܟܰܐܘ",
+            "alternatives": [
+                "ܐܶܬܬܰܟܰܐܽܘܢ"
+            ]
+        },
+        "1811": {
+            "value": "ܟܽܘܐ̈ܝ",
+            "alternatives": [
+                "̈ܟܽܘܐܶܝܢ"
+            ]
+        },
+        "1865": {
+            "value": "ܐܶܬܢܰܟܐ̈ܝ",
+            "alternatives": [
+                "ܐܶܬܢܰܟܐ̈ܶܝܢ"
+            ]
+        },
+        "1901": {
+            "value": "ܢܰܟܶܐ̈ܝ",
+            "alternatives": [
+                "ܢܰܟܶܐ̈ܶܝܢ"
+            ]
+        },
+        "1940": {
+            "value": "ܐܶܬܢܰܟܰܐ̈ܝ",
+            "alternatives": [
+                "ܐܶܬܢܰܟܐ̈ܶܝܢ",
+                "ܐܶܬܢܰܟܰܐ̈ܶܝܢ",
+                "ܐܶܬܢܰܟܐ̈ܝ"
+            ]
+        },
+        "1981": {
+            "value": "ܐܰܟܶܐ̈ܝ",
+            "alternatives": [
+                "ܐܰܟܶܐ̈ܶܝܢ"
+            ]
+        },
+        "2024": {
+            "value": "ܐܶܬܬܰܟܰܐ̈ܝ",
+            "alternatives": [
+                "ܐܶܬܬܰܟܰܐ̈ܶܝܢ"
+            ]
+        },
+        "1764": {
+            "value": "ܢܳܟܶܐ",
+            "alternatives": []
+        },
+        "1852": {
+            "value": "ܡܶܬܢܟܶܐ",
+            "alternatives": []
+        },
+        "1888": {
+            "value": "ܡܢܰܟܶܐ",
+            "alternatives": []
+        },
+        "1927": {
+            "value": "ܡܶܬܢܰܟܰܐ",
+            "alternatives": []
+        },
+        "1968": {
+            "value": "ܡܰܟܶܐ",
+            "alternatives": []
+        },
+        "2007": {
+            "value": "ܡܶܬܬܰܟܰܐ",
+            "alternatives": []
+        },
+        "1763": {
+            "value": "ܢܳܟܐܳܐ",
+            "alternatives": []
+        },
+        "1851": {
+            "value": "ܡܶܬܢܰܟܐܳܐ",
+            "alternatives": []
+        },
+        "1887": {
+            "value": "ܡܢܰܟܐܳܐ",
+            "alternatives": []
+        },
+        "1926": {
+            "value": "ܡܶܬܢܰܟܐܳܐ",
+            "alternatives": []
+        },
+        "1967": {
+            "value": "ܡܰܟܐܳܐ",
+            "alternatives": []
+        },
+        "2006": {
+            "value": "ܡܶܬܬܰܟܐܳܐ",
+            "alternatives": []
+        },
+        "1762": {
+            "value": "ܢܳܟܐܺܝܢ",
+            "alternatives": []
+        },
+        "1850": {
+            "value": "ܡܶܬܢܰܟܐܺܝܢ",
+            "alternatives": []
+        },
+        "1886": {
+            "value": "ܡܢܰܟܐܺܝܢ",
+            "alternatives": []
+        },
+        "1925": {
+            "value": "ܡܶܬܢܰܟܐܺܝܢ",
+            "alternatives": []
+        },
+        "1966": {
+            "value": "ܡܰܟܐܺܝܢ",
+            "alternatives": []
+        },
+        "2005": {
+            "value": "ܡܶܬܬܰܟܐܺܝܢ",
+            "alternatives": []
+        },
+        "1761": {
+            "value": "ܢܳܟ̈ܐܳܢ",
+            "alternatives": []
+        },
+        "1849": {
+            "value": "ܡܶܬܢܰܟܐ̈ܳܢ",
+            "alternatives": []
+        },
+        "1885": {
+            "value": "ܡܢܰܟܐ̈ܳܢ",
+            "alternatives": []
+        },
+        "1924": {
+            "value": "ܡܶܬܢܰܟܐ̈ܳܢ",
+            "alternatives": []
+        },
+        "1965": {
+            "value": "ܡܰܟܐ̈ܳܢ",
+            "alternatives": []
+        },
+        "2004": {
+            "value": "ܡܶܬܬܰܟܐ̈ܳܢ",
+            "alternatives": []
+        },
+        "1847": {
+            "value": "ܢܟܺܝܐ",
+            "alternatives": []
+        },
+        "1923": {
+            "value": "ܡܢܰܟܰܐ",
+            "alternatives": []
+        },
+        "2003": {
+            "value": "ܡܰܟܰܐ",
+            "alternatives": []
+        },
+        "1845": {
+            "value": "ܢܟܺܝܐܳܐ",
+            "alternatives": []
+        },
+        "1922": {
+            "value": "ܡܢܰܟܐܳܐ",
+            "alternatives": []
+        },
+        "2002": {
+            "value": "ܡܰܟܐܳܐ",
+            "alternatives": []
+        },
+        "1844": {
+            "value": "ܢܟܺܝܐܺܝܢ",
+            "alternatives": []
+        },
+        "1921": {
+            "value": "ܡܢܰܟܐܺܝܢ",
+            "alternatives": []
+        },
+        "2001": {
+            "value": "ܡܰܟܐܺܝܢ",
+            "alternatives": []
+        },
+        "1843": {
+            "value": "ܢܟܺܝܐ̈ܳ",
+            "alternatives": []
+        },
+        "1920": {
+            "value": "ܡܢܰܟ̈ܐܳܢ",
+            "alternatives": []
+        },
+        "2000": {
+            "value": "ܡܰܟ̈ܐܳܢ",
+            "alternatives": []
+        },
+        "1798": {
+            "value": "ܡܶܟܰܐ",
+            "alternatives": []
+        },
+        "1864": {
+            "value": "ܡܶܬܢܟܳܐܽܘ",
+            "alternatives": []
+        },
+        "1900": {
+            "value": "ܡܢܰܟܳܐܽܘ",
+            "alternatives": []
+        },
+        "1939": {
+            "value": "ܡܶܬܢܰܟܳܐܽܘ",
+            "alternatives": []
+        },
+        "1980": {
+            "value": "ܡܰܟܳܐܽܘ",
+            "alternatives": []
+        },
+        "2023": {
+            "value": "ܡܶܬܬܰܟܳܐܽܘ",
+            "alternatives": []
+        }
+    }
+}

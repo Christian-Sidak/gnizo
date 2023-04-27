@@ -1,0 +1,841 @@
+{
+    "root": "ܐܟܠ",
+    "id": 34015,
+    "verb_class": "Pe Alaph",
+    "conjugations": {
+        "69": {
+            "value": "ܐܶܟܰܠ",
+            "alternatives": []
+        },
+        "124": {
+            "value": "ܐܶܬܐܶܟܶܠ",
+            "alternatives": []
+        },
+        "159": {
+            "value": "ܐܰܟܶܠ",
+            "alternatives": []
+        },
+        "204": {
+            "value": "ܐܶܬܰܐܟܰܠ",
+            "alternatives": []
+        },
+        "239": {
+            "value": "ܐܰܘܟܶܠ",
+            "alternatives": []
+        },
+        "282": {
+            "value": "ܐܶܬܬܰܘܟܰܠ",
+            "alternatives": []
+        },
+        "68": {
+            "value": "ܐܶܟܠܰܬ",
+            "alternatives": []
+        },
+        "123": {
+            "value": "ܐܶܬܰܐܟܠܰܬ",
+            "alternatives": []
+        },
+        "158": {
+            "value": "ܐܰܟܠܰܬ",
+            "alternatives": []
+        },
+        "203": {
+            "value": "ܐܶܬܰܐܟܠܰܬ",
+            "alternatives": []
+        },
+        "238": {
+            "value": "ܐܰܘܟܠܰܬ",
+            "alternatives": []
+        },
+        "281": {
+            "value": "ܐܶܬܬܰܘܟܠܰܬ",
+            "alternatives": []
+        },
+        "67": {
+            "value": "ܐܶܟܰܠܬ",
+            "alternatives": []
+        },
+        "122": {
+            "value": "ܐܶܬܐܶܟܶܠܬ",
+            "alternatives": []
+        },
+        "157": {
+            "value": "ܐܰܟܶܠܬ",
+            "alternatives": []
+        },
+        "202": {
+            "value": "ܐܶܬܰܐܟܰܠܬ",
+            "alternatives": []
+        },
+        "237": {
+            "value": "ܐܰܘܟܶܠܬ",
+            "alternatives": []
+        },
+        "280": {
+            "value": "ܐܶܬܬܰܘܟܰܠܬ",
+            "alternatives": []
+        },
+        "66": {
+            "value": "ܐܶܟܰܠܬܝ",
+            "alternatives": []
+        },
+        "121": {
+            "value": "ܐܶܬܐܶܟܶܠܬܝ",
+            "alternatives": []
+        },
+        "156": {
+            "value": "ܐܰܟܶܠܬܝ",
+            "alternatives": []
+        },
+        "201": {
+            "value": "ܐܶܬܰܐܟܰܠܬܝ",
+            "alternatives": []
+        },
+        "236": {
+            "value": "ܐܰܘܟܶܠܬܝ",
+            "alternatives": []
+        },
+        "279": {
+            "value": "ܐܶܬܰܘܟܰܠܬܝ",
+            "alternatives": []
+        },
+        "65": {
+            "value": "ܐܶܶܟܠܶܬ",
+            "alternatives": []
+        },
+        "120": {
+            "value": "ܐܶܬܰܐܟܠܶܬ",
+            "alternatives": []
+        },
+        "155": {
+            "value": "ܐܰܟܠܶܬ",
+            "alternatives": []
+        },
+        "200": {
+            "value": "ܐܶܬܰܐܟܠܶܬ",
+            "alternatives": []
+        },
+        "235": {
+            "value": "ܐܰܘܟܠܶܬ",
+            "alternatives": []
+        },
+        "278": {
+            "value": "ܐܶܬܰܘܟܠܶܬ",
+            "alternatives": []
+        },
+        "63": {
+            "value": "ܐܶܟܰܠܘ",
+            "alternatives": [
+                "ܐܶܟܰܠܽܘܢ"
+            ]
+        },
+        "118": {
+            "value": "ܐܶܬܶܐܟܶܠܘ",
+            "alternatives": [
+                "ܐܶܬܶܐܟܶܠܽܘܢ"
+            ]
+        },
+        "153": {
+            "value": "ܐܰܟܶܠܘ",
+            "alternatives": [
+                "ܐܰܟܶܠܽܘܢ"
+            ]
+        },
+        "198": {
+            "value": "ܐܶܬܰܐܟܰܠܘ",
+            "alternatives": [
+                "ܐܶܬܰܐܟܰܠܽܘܢ"
+            ]
+        },
+        "233": {
+            "value": "ܐܰܘܟܶܠܘ",
+            "alternatives": [
+                "ܐܰܘܟܶܠܽܘܢ"
+            ]
+        },
+        "276": {
+            "value": "ܐܶܬܬܰܘܟܰܠܘ",
+            "alternatives": [
+                "ܐܶܬܬܰܘܟܰܠܽܘܢ"
+            ]
+        },
+        "61": {
+            "value": "ܐܶܟܰܠ̈ܝ",
+            "alternatives": [
+                "ܐܶܟܰܠ̈ܶܝܢ"
+            ]
+        },
+        "116": {
+            "value": "ܐܶܬܶܐܟܶܠ̈ܝ",
+            "alternatives": [
+                "ܐܶܬܶܐܟܶܠ̈ܶܝܢ"
+            ]
+        },
+        "151": {
+            "value": "ܐܰܟܶܠ̈ܝ",
+            "alternatives": [
+                "ܐܰܟܶܠ̈ܶܝܢ"
+            ]
+        },
+        "196": {
+            "value": "ܐܶܬܰܐܟܰܠ̈ܝ",
+            "alternatives": [
+                "ܐܶܬܰܐܟܰܠ̈ܶܝܢ"
+            ]
+        },
+        "231": {
+            "value": "ܐܰܘܟܶܠ̈ܝ",
+            "alternatives": [
+                "ܐܰܘܟܶܠ̈ܶܝܢ"
+            ]
+        },
+        "274": {
+            "value": "ܐܶܬܬܰܘܟܰܠ̈ܝ",
+            "alternatives": [
+                "ܐܶܬܬܰܘܟܰܠ̈ܶܝܢ"
+            ]
+        },
+        "60": {
+            "value": "ܐܶܟܰܠܬܽܘܢ",
+            "alternatives": []
+        },
+        "115": {
+            "value": "ܐܶܬܶܐܟܶܠܬܽܘܢ",
+            "alternatives": []
+        },
+        "150": {
+            "value": "ܐܰܟܶܠܬܽܘܢ",
+            "alternatives": []
+        },
+        "195": {
+            "value": "ܐܶܬܰܐܟܰܠܬܽܘܢ",
+            "alternatives": []
+        },
+        "230": {
+            "value": "ܐܰܘܟܶܠܬܽܘܢ",
+            "alternatives": []
+        },
+        "273": {
+            "value": "ܐܶܬܬܰܘܟܰܠܬܽܘܢ",
+            "alternatives": []
+        },
+        "59": {
+            "value": "ܐܶܟܰܠܬ̈ܶܝܢ",
+            "alternatives": []
+        },
+        "114": {
+            "value": "ܐܶܬܶܐܟܶܠ̈ܬܶܝܢ",
+            "alternatives": []
+        },
+        "149": {
+            "value": "ܐܰܟܶܠܬ̈ܶܝܢ",
+            "alternatives": []
+        },
+        "194": {
+            "value": "ܐܶܬܰܐܟܰܠ̈ܬܶܝܢ",
+            "alternatives": []
+        },
+        "229": {
+            "value": "ܐܰܘܟܶܠܬ̈ܶܝܢ",
+            "alternatives": []
+        },
+        "272": {
+            "value": "ܐܶܬܬܰܘܟܰܠ̈ܬܶܝܢ",
+            "alternatives": []
+        },
+        "57": {
+            "value": "ܐܶܟܰܠܢ",
+            "alternatives": [
+                "ܐܶܟܰܠܢܰܢ"
+            ]
+        },
+        "112": {
+            "value": "ܐܶܬܶܐܟܶܠܢ",
+            "alternatives": [
+                "ܐܶܬܶܐܟܶܠܢܰܢ"
+            ]
+        },
+        "147": {
+            "value": "ܐܰܟܶܠܢ",
+            "alternatives": [
+                "ܐܰܟܶܠܢܰܢ"
+            ]
+        },
+        "192": {
+            "value": "ܐܶܬܰܐܟܰܠܢ",
+            "alternatives": [
+                "ܐܶܬܰܐܟܰܠܢܰܢ"
+            ]
+        },
+        "227": {
+            "value": "ܐܰܘܟܶܠܢ",
+            "alternatives": [
+                "ܐܰܘܟܶܠܢܰܢ"
+            ]
+        },
+        "270": {
+            "value": "ܐܶܬܬܰܘܟܰܠܢ",
+            "alternatives": [
+                "ܐܶܬܬܰܘܟܰܠܢܰܢ"
+            ]
+        },
+        "37": {
+            "value": "ܢܶܐܟܽܘܠ",
+            "alternatives": []
+        },
+        "103": {
+            "value": "ܢܶܬܶܐܟܶܠ",
+            "alternatives": []
+        },
+        "139": {
+            "value": "ܢܰܐܟܶܠ",
+            "alternatives": []
+        },
+        "178": {
+            "value": "ܢܶܬܰܐܟܰܠ",
+            "alternatives": []
+        },
+        "219": {
+            "value": "ܢܰܘܟܶܠ",
+            "alternatives": []
+        },
+        "262": {
+            "value": "ܢܶܬܬܰܘܟܰܠ",
+            "alternatives": []
+        },
+        "35": {
+            "value": "ܬܶܐܟܽܘܠ",
+            "alternatives": [
+                "ܬܶܐܟܽܘܠܝ"
+            ]
+        },
+        "101": {
+            "value": "ܬܶܬܶܐܟܶܠ",
+            "alternatives": [
+                "ܬܶܬܶܐܟܶܠܝ"
+            ]
+        },
+        "137": {
+            "value": "ܬܰܐܟܶܠ",
+            "alternatives": [
+                "ܬܰܐܟܶܠܝ"
+            ]
+        },
+        "176": {
+            "value": "ܬܶܬܰܐܟܰܠ",
+            "alternatives": [
+                "ܬܶܬܰܐܟܰܠܝ"
+            ]
+        },
+        "217": {
+            "value": "ܬܰܘܟܶܠ",
+            "alternatives": [
+                "ܬܰܘܟܶܠܝ"
+            ]
+        },
+        "260": {
+            "value": "ܬܶܬܬܰܘܟܰܠܝ",
+            "alternatives": [
+                "ܬܶܬܰܘܟܰܠܝ"
+            ]
+        },
+        "34": {
+            "value": "ܬܶܐܟܽܘܠ",
+            "alternatives": []
+        },
+        "100": {
+            "value": "ܬܶܬܶܐܟܶܠ",
+            "alternatives": []
+        },
+        "136": {
+            "value": "ܬܰܐܟܶܠ",
+            "alternatives": []
+        },
+        "175": {
+            "value": "ܬܶܬܰܐܟܰܠ",
+            "alternatives": []
+        },
+        "216": {
+            "value": "ܬܰܘܟܶܠ",
+            "alternatives": []
+        },
+        "258": {
+            "value": "ܬܶܬܬܰܘܟܰܠ",
+            "alternatives": [
+                "ܬܶܬܰܘܟܰܠ"
+            ]
+        },
+        "33": {
+            "value": "ܬܶܐܟܠܺܝܢ",
+            "alternatives": []
+        },
+        "99": {
+            "value": "ܬܶܬܰܐܟܠܺܝܢ",
+            "alternatives": []
+        },
+        "135": {
+            "value": "ܬܰܐܟܠܺܝܢ",
+            "alternatives": []
+        },
+        "174": {
+            "value": "ܬܶܬܰܐܟܠܺܝܢ",
+            "alternatives": []
+        },
+        "215": {
+            "value": "ܬܰܘܟܠܺܝܢ",
+            "alternatives": []
+        },
+        "256": {
+            "value": "ܬܶܬܬܰܘܟܠܺܝܢ",
+            "alternatives": [
+                "ܬܶܬܰܘܟܠܺܝܢ"
+            ]
+        },
+        "32": {
+            "value": "ܐܶܐܟܽܘܠ",
+            "alternatives": []
+        },
+        "98": {
+            "value": "ܐܶܬܶܐܟܶܠ",
+            "alternatives": []
+        },
+        "134": {
+            "value": "ܐܰܐܟܶܠ",
+            "alternatives": []
+        },
+        "173": {
+            "value": "ܐܶܬܰܐܟܰܠ",
+            "alternatives": []
+        },
+        "214": {
+            "value": "ܐܰܘܟܶܠ",
+            "alternatives": []
+        },
+        "255": {
+            "value": "ܐܶܬܬܰܘܟܰܠ",
+            "alternatives": []
+        },
+        "31": {
+            "value": "ܢܶܐܟܠܽܘܢ",
+            "alternatives": []
+        },
+        "97": {
+            "value": "ܢܶܬܰܐܟܠܽܘܢ",
+            "alternatives": []
+        },
+        "133": {
+            "value": "ܢܰܐܟܠܽܘܢ",
+            "alternatives": []
+        },
+        "172": {
+            "value": "ܢܶܬܰܐܟܠܽܘܢ",
+            "alternatives": []
+        },
+        "213": {
+            "value": "ܢܰܘܟܠܽܘܢ",
+            "alternatives": []
+        },
+        "254": {
+            "value": "ܢܶܬܬܰܘܟܠܽܘܢ",
+            "alternatives": []
+        },
+        "30": {
+            "value": "ܢܶܐ̈ܟܠܳܢ",
+            "alternatives": []
+        },
+        "96": {
+            "value": "ܢܶܬܰܐܟܠ̈ܳܢ",
+            "alternatives": []
+        },
+        "132": {
+            "value": "ܢܰܐܟܠ̈ܳܢ",
+            "alternatives": []
+        },
+        "171": {
+            "value": "ܢܶܬܰܐܟܠ̈ܳܢ",
+            "alternatives": []
+        },
+        "212": {
+            "value": "ܢܰܘܟܠ̈ܳܢ",
+            "alternatives": []
+        },
+        "253": {
+            "value": "ܢܶܬܬܰܘܟܠ̈ܳܢ",
+            "alternatives": []
+        },
+        "29": {
+            "value": "ܬܶܐܟܠܽܘܢ",
+            "alternatives": []
+        },
+        "95": {
+            "value": "ܬܶܬܰܐܟܠܽܘܢ",
+            "alternatives": []
+        },
+        "131": {
+            "value": "ܬܰܐܟܠܽܘܢ",
+            "alternatives": []
+        },
+        "170": {
+            "value": "ܬܶܬܰܐܟܠܽܘܢ",
+            "alternatives": []
+        },
+        "211": {
+            "value": "ܬܰܘܟܠܽܘܢ",
+            "alternatives": []
+        },
+        "251": {
+            "value": "ܬܶܬܬܰܘܟܠܽܘܢ",
+            "alternatives": [
+                "ܬܶܬܰܘܟܠܽܘܢ"
+            ]
+        },
+        "28": {
+            "value": "ܬܶܐ̈ܟܠܳܢ",
+            "alternatives": []
+        },
+        "94": {
+            "value": "ܬܶܬܰܐܟܠ̈ܳܢ",
+            "alternatives": []
+        },
+        "130": {
+            "value": "ܬܰܐܟܠ̈ܳܢ",
+            "alternatives": []
+        },
+        "169": {
+            "value": "ܬܶܬܰܐܟܠ̈ܳܢ",
+            "alternatives": []
+        },
+        "210": {
+            "value": "ܬܰܘܟܠ̈ܳܢ",
+            "alternatives": []
+        },
+        "249": {
+            "value": "ܬܶܬܬܰܘܟܠ̈ܳܢ",
+            "alternatives": [
+                "ܬܶܬܰܘܟܠ̈ܳܢ"
+            ]
+        },
+        "27": {
+            "value": "ܢܶܐܟܽܘܠ",
+            "alternatives": []
+        },
+        "93": {
+            "value": "ܢܶܬܶܐܟܶܠ",
+            "alternatives": []
+        },
+        "129": {
+            "value": "ܢܰܐܟܶܠ",
+            "alternatives": []
+        },
+        "168": {
+            "value": "ܢܶܬܰܐܟܰܠ",
+            "alternatives": []
+        },
+        "209": {
+            "value": "ܢܰܘܟܶܠ",
+            "alternatives": []
+        },
+        "248": {
+            "value": "ܢܶܬܬܰܘܟܰܠ",
+            "alternatives": []
+        },
+        "56": {
+            "value": "ܐܰܟܽܘܠ",
+            "alternatives": []
+        },
+        "110": {
+            "value": "ܐܶܬܰܐܟܠ",
+            "alternatives": [
+                "ܐܶܬܰܐܟܶܠ"
+            ]
+        },
+        "146": {
+            "value": "ܐܰܟܶܠ",
+            "alternatives": []
+        },
+        "190": {
+            "value": "ܐܶܬܰܐܟܰܠ",
+            "alternatives": [
+                "ܐܶܬܰܐܟܠ"
+            ]
+        },
+        "226": {
+            "value": "ܐܰܘܟܶܠ",
+            "alternatives": []
+        },
+        "269": {
+            "value": "ܐܶܬܬܰܘܟܰܠ",
+            "alternatives": []
+        },
+        "55": {
+            "value": "ܐܰܟܽܘܠܝ",
+            "alternatives": []
+        },
+        "109": {
+            "value": "ܐܶܬܰܐܟܠܝ",
+            "alternatives": []
+        },
+        "145": {
+            "value": "ܐܰܟܶܠܝ",
+            "alternatives": []
+        },
+        "188": {
+            "value": "ܐܶܬܰܐܟܰܠܝ",
+            "alternatives": [
+                "ܐܶܬܰܐܟܠܝ"
+            ]
+        },
+        "225": {
+            "value": "ܐܰܘܟܶܠܝ",
+            "alternatives": []
+        },
+        "268": {
+            "value": "ܐܶܬܬܰܘܟܰܠܝ",
+            "alternatives": []
+        },
+        "53": {
+            "value": "ܐܰܟܽܘܠܘ",
+            "alternatives": [
+                "ܐܰܟܽܘܠܽܘܢ"
+            ]
+        },
+        "107": {
+            "value": "ܐܶܬܰܐܟܠܘ",
+            "alternatives": [
+                "ܐܶܬܰܐܟܠܽܘܢ"
+            ]
+        },
+        "143": {
+            "value": "ܐܰܟܶܠܘ",
+            "alternatives": [
+                "ܐܰܟܶܠܽܘܢ"
+            ]
+        },
+        "184": {
+            "value": "ܐܶܬܰܐܟܰܠܘ",
+            "alternatives": [
+                "ܐܶܬܰܐܟܠܽܘܢ",
+                "ܐܶܬܰܐܟܰܠܽܘܢ",
+                "ܐܶܬܰܐܟܠܘ"
+            ]
+        },
+        "223": {
+            "value": "ܐܰܘܟܶܠܘ",
+            "alternatives": [
+                "ܐܰܘܟܶܠܽܘܢ"
+            ]
+        },
+        "266": {
+            "value": "ܐܶܬܬܰܘܟܰܠܘ",
+            "alternatives": [
+                "ܐܶܬܬܰܘܟܰܠܽܘܢ"
+            ]
+        },
+        "51": {
+            "value": "ܐܰܟܽܘܠ̈ܝ",
+            "alternatives": [
+                "ܐܰܟܽܘܠ̈ܶܝܢ"
+            ]
+        },
+        "105": {
+            "value": "ܐܶܬܰܐܟܠ̈ܝ",
+            "alternatives": [
+                "ܐܶܬܰܐܟܠ̈ܶܝܢ"
+            ]
+        },
+        "141": {
+            "value": "ܐܰܟܶܠ̈ܝ",
+            "alternatives": [
+                "ܐܰܟܶܠ̈ܶܝܢ"
+            ]
+        },
+        "180": {
+            "value": "ܐܶܬܰܐܟܰܠ̈ܝ",
+            "alternatives": [
+                "ܐܶܬܰܐܟܠ̈ܶܝܢ",
+                "ܐܶܬܰܐܟܰܠ̈ܶܝܢ",
+                "ܐܶܬܰܐܟܠ̈ܝ"
+            ]
+        },
+        "221": {
+            "value": "ܐܰܘܟܶܠ̈ܝ",
+            "alternatives": [
+                "ܐܰܘܟܶܠ̈ܶܝܢ"
+            ]
+        },
+        "264": {
+            "value": "ܐܶܬܬܰܘܟܰܠ̈ܝ",
+            "alternatives": [
+                "ܐܶܬܬܰܘܟܰܠ̈ܶܝܢ"
+            ]
+        },
+        "4": {
+            "value": "ܐܳܟܶܠ",
+            "alternatives": []
+        },
+        "92": {
+            "value": "ܡܶܬܶܐܟܶܠ",
+            "alternatives": []
+        },
+        "128": {
+            "value": "ܡܰܐܟܶܠ",
+            "alternatives": []
+        },
+        "167": {
+            "value": "ܡܶܬܰܐܟܰܠ",
+            "alternatives": []
+        },
+        "208": {
+            "value": "ܡܰܘܟܶܠ",
+            "alternatives": []
+        },
+        "247": {
+            "value": "ܡܶܬܬܰܘܟܰܠ",
+            "alternatives": []
+        },
+        "3": {
+            "value": "ܐܳܟܠܳܐ",
+            "alternatives": []
+        },
+        "91": {
+            "value": "ܡܶܬܰܐܟܠܳܐ",
+            "alternatives": []
+        },
+        "127": {
+            "value": "ܡܰܐܟܠܳܐ",
+            "alternatives": []
+        },
+        "166": {
+            "value": "ܡܶܬܰܐܟܠܳܐ",
+            "alternatives": []
+        },
+        "207": {
+            "value": "ܡܰܘܟܠܳܐ",
+            "alternatives": []
+        },
+        "246": {
+            "value": "ܡܶܬܬܰܘܟܠܳܐ",
+            "alternatives": []
+        },
+        "2": {
+            "value": "ܐܳܟܠܺܝܢ",
+            "alternatives": []
+        },
+        "90": {
+            "value": "ܡܶܬܰܐܟܠܺܝܢ",
+            "alternatives": []
+        },
+        "126": {
+            "value": "ܡܰܐܟܠܺܝܢ",
+            "alternatives": []
+        },
+        "165": {
+            "value": "ܡܶܬܰܐܟܠܺܝܢ",
+            "alternatives": []
+        },
+        "206": {
+            "value": "ܡܰܘܟܠܺܝܢ",
+            "alternatives": []
+        },
+        "245": {
+            "value": "ܡܶܬܬܰܘܟܠܺܝܢ",
+            "alternatives": []
+        },
+        "1": {
+            "value": "ܐܳܟ̈ܠܳܢ",
+            "alternatives": []
+        },
+        "89": {
+            "value": "ܡܶܬܰܐܟܠ̈ܳܢ",
+            "alternatives": []
+        },
+        "125": {
+            "value": "ܡܰܐܟܠ̈ܳܢ",
+            "alternatives": []
+        },
+        "164": {
+            "value": "ܡܶܬܰܐܟܠ̈ܳܢ",
+            "alternatives": []
+        },
+        "205": {
+            "value": "ܡܰܘܟܠ̈ܳܢ",
+            "alternatives": []
+        },
+        "244": {
+            "value": "ܡܶܬܬܰܘܟܠ̈ܳܢ",
+            "alternatives": []
+        },
+        "87": {
+            "value": "ܐܰܟܺܝܠ",
+            "alternatives": []
+        },
+        "163": {
+            "value": "ܡܰܐܟܰܠ",
+            "alternatives": []
+        },
+        "243": {
+            "value": "ܡܰܘܟܰܠ",
+            "alternatives": []
+        },
+        "85": {
+            "value": "ܐܰܟܺܝܠܳܐ",
+            "alternatives": []
+        },
+        "162": {
+            "value": "ܡܰܐܟܠܳܐ",
+            "alternatives": []
+        },
+        "242": {
+            "value": "ܡܰܘܟܠܳܐ",
+            "alternatives": []
+        },
+        "84": {
+            "value": "ܐܰܟܺܝܠܺܝܢ",
+            "alternatives": []
+        },
+        "161": {
+            "value": "ܡܰܐܟܠܺܝܢ",
+            "alternatives": []
+        },
+        "241": {
+            "value": "ܡܰܘܟܠܺܝܢ",
+            "alternatives": []
+        },
+        "83": {
+            "value": "ܐܰܟܺܝܠ̈ܳ",
+            "alternatives": []
+        },
+        "160": {
+            "value": "ܡܰܐܟ̈ܠܳܢ",
+            "alternatives": []
+        },
+        "240": {
+            "value": "ܡܰܘܟ̈ܠܳܢ",
+            "alternatives": []
+        },
+        "38": {
+            "value": "ܡܶܐܟܰܠ",
+            "alternatives": []
+        },
+        "104": {
+            "value": "ܡܶܬܶܐܟܳܠܽܘ",
+            "alternatives": []
+        },
+        "140": {
+            "value": "ܡܰܐܟܳܠܽܘ",
+            "alternatives": []
+        },
+        "179": {
+            "value": "ܡܶܬܰܐܟܳܠܽܘ",
+            "alternatives": []
+        },
+        "220": {
+            "value": "ܡܰܘܟܳܠܽܘ",
+            "alternatives": []
+        },
+        "263": {
+            "value": "ܡܶܬܬܰܘܟܳܠܽܘ",
+            "alternatives": []
+        }
+    }
+}
