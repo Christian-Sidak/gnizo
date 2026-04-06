@@ -7,3 +7,4 @@ The idea for Gnizo came to me over the years as I would go back to read Syriac t
 Currently, all study lists are cached locally, so bookmarking the page will provide your study lists with the greatest longevity. Maybe someday I will add a backend for storing user data, but it's a bit overkill at this point - Contributors? Possibly You!
 
 Full citation and acknowledgement are pending, but a special thank you and acknowledgment in advance to George Kiraz, Syriaca.org, Srophe and Beth Mardutho for their years of contribution to Syriac scholarship and computational resources.
+
